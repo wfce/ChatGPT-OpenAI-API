@@ -14,7 +14,7 @@ Register to get $0.2, click 'Star' and then mention 'lssues' to leave your usern
 
 For a limited time, every USD 1 recharge is equal to RMB 1, which is equivalent to our exchange rate being 7.1 times higher than OpenAI’s lower exchange rate.
 
-![price.png](https://imgfg.com/i/glKt91RAf3.png)
+![price.png](price.png)
 
 ## 模型说明 (Model description)
 gpt-4-1106-preview 是 GPT-4-Turbo 支持 128K tokens 知识截止日期2023年4月，gpt-3.5-turbo 是官网3.5转发
